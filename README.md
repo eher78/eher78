@@ -1,10 +1,12 @@
 ### Hi, I'm Abraham 👋
+<br>
 
 I am currently an undergraduate student who is passionate in mathematics, art, and computer science. Some programming languages I am working right now includes Python, Javascript, and C++. I also have experience working with markup languages such as HTML and CSS. 
 
 Whenever I am not working on my personal projects, I enjoy reading classic books, learning new languages, and even trying some math problems. 
 
 ## What I'm working on
+<br>
 
 I am currently working on replicating generative patterns from a generaive adversial system and trying to produce results from my code.
 <!--
