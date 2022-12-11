@@ -7,6 +7,7 @@ Whenever I am not working on my personal projects, I enjoy reading classic books
 
 
 </br>
+
 ### What I'm working on
 
 I am currently working on replicating generative patterns from a generaive adversial system and trying to produce results from my code.
