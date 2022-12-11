@@ -6,7 +6,7 @@ I am currently an undergraduate student who is passionate in mathematics, art, a
 Whenever I am not working on my personal projects, I enjoy reading classic books, learning new languages, and even trying some math problems. 
 
 ### What I'm working on
-<br>
+\
 
 I am currently working on replicating generative patterns from a generaive adversial system and trying to produce results from my code.
 <!--
