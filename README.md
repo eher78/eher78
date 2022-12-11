@@ -5,7 +5,7 @@ I am currently an undergraduate student who is passionate in mathematics, art, a
 Whenever I am not working on my personal projects, I enjoy reading classic books, learning new languages (Japanese and Mandarin), and even trying some advanced math problems. 
 
 
-
+<br></br>
 ### Current Projects
 TBD
 <!--
