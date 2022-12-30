@@ -7,7 +7,7 @@ Whenever I am not working on my personal projects, I enjoy reading classic books
 
 <br></br>
 ## Current Projects
-Working on creating a Lorenz Attractor in p5.js and OpenProcessing
+Working on exploring data analysis on a chocolate rating dataset for future predictions and statistical methods.
 <!--
 **eher78/eher78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
